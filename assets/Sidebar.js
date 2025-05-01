@@ -6,6 +6,16 @@ const ads = [
     image: "https://appsiko.com/ad1.jpg",
     alt: "Ad 1",
   },
+  {
+    url: "https://appsiko.com",
+    image: "https://appsiko.com/ad2.jpg",
+    alt: "Ad 2",
+  },
+  {
+    url: "https://appsiko.com",
+    image: "https://appsiko.com/ad3.jpg",
+    alt: "Ad 3",
+  },
 
 ];
 
