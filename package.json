@@ -1,5 +1,5 @@
 {
-  "name": "eth-ethereum-token-creation-tool",
+  "name": "token-creation-tool",
   "version": "0.1.0",
   "private": true,
   "scripts": {
