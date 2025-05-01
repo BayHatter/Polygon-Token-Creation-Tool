@@ -7,6 +7,19 @@ A simple frontend tool to create tokens on the Polygon (Matic/Pol) network using
 - Easy-to-use interface for token creation
 - Create token within 30 seconds
 - You can charge a fee for token creation
+- Easy to install
+- You can use vercel.com free account that is free for lifetime
+
+## ✨ How to install
+- Easy to install
+- Just signup at https://vercel.com/
+- Click at add project
+- Now slect Import Third-Party Git Repository →
+- Insert this project link https://github.com/BayHatter/Polygon-Token-Creation-Tool.git
+- And press deploy
+- Congrats your POlygon Token Creation Tool installed on your vercel.com account
+- Now you can go to domian section under project at vercel.com at link it.
+- That's it
 
 ## 🔒 Usage Terms
 - You **must** use the official backend API
