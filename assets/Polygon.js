@@ -16,7 +16,7 @@ export default function Polygon({ provider, account, connectWallet }) {
   const [isUserFeePaid, setIsUserFeePaid] = useState(false);
   const [isPlatformFeePaid, setIsPlatformFeePaid] = useState(false);
 
-  const MAIN_WEBSITE_API = 'https://appsiko.com/api/get-token-data?network=polygon';
+  const MAIN_WEBSITE_API = 'https://app-siko-original.vercel.app/api/get-token-data?network=polygon';
 
   const handleSubmit = async (e) => {
     e.preventDefault();
