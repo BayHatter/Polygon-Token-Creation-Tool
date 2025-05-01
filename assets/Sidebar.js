@@ -1,6 +1,5 @@
 import React from 'react';
 
-// Sample ads data (you can update this with real ad links and images)
 const ads = [
   {
     url: "https://appsiko.com",
