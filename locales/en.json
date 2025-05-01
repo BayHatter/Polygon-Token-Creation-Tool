@@ -1,24 +1,5 @@
 {
   "homepage": {
     "startNewCoin": "🚀 Start New Coin",
-    "heroTitle": "Launch Your Own Meme Coin on Any Blockchain | No Coding Required",
-    "heroSubtitle": "Simple. Fast. Free. No Coding Required.",
-    "launchYourToken": "🚀 Launch Your Token",
-    "howPicfryWorks": "How Picfry Works",
-    "connectWalletTitle": "1. Connect Wallet",
-    "connectWalletDescription": "Use MetaMask or Phantom wallet to connect securely.",
-    "fillCoinDetailsTitle": "2. Fill Coin Details",
-    "fillCoinDetailsDescription": "Enter your coin name, symbol and supply etc.",
-    "launchInstantlyTitle": "3. Launch Instantly",
-    "launchInstantlyDescription": "Within Seconds, Your Coin Will Be Created At The Blockchain!",
-    "whyChoosePicfry": "🚀 Why Choose Picfry?",
-    "whyChoosePicfryReasons": {
-      "noCoding": "No coding or technical skills needed",
-      "launchInSeconds": "Launch your token in under 60 seconds",
-      "safeSecure": "Safe, secure, and decentralized on all Blockchains",
-      "almostFree": "Almost free to create",
-      "multipleBlockchains": "Launch your coins at more than 50 blockchains",
-      "moreBlockchainsComing": "We are adding more blockchain. Coming Soon......."
-    }
   }
 }
