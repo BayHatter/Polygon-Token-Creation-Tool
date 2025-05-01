@@ -2,7 +2,7 @@ import WalletProvider from '@/assets/WalletProvider';
 import TopMenu from '@/assets/TopMenu';
 import HomePage from '@/assets/Home';
 
-export default function Home({ messages }) {
+export default function Home() {
   return (
     <WalletProvider>
       {({ provider, account, connectWallet, disconnectWallet }) => (
@@ -13,13 +13,4 @@ export default function Home({ messages }) {
       )}
     </WalletProvider>
   );
-}
-
-export async function getStaticProps({ locale }) {
-  const messages = (await import(`../locales/${locale}.json`)).default;
-  return {
-    props: {
-      messages,
-    },
-  };
 }
