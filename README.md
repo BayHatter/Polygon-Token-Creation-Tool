@@ -1,11 +1,12 @@
 # Polygon Token Creation Tool
 
-A simple frontend tool to create ERC-20 tokens on the Polygon (Matic) network using a paid backend API.
+A simple frontend tool to create tokens on the Polygon (Matic/Pol) network using a backend API.
 
 ## ✨ Features
 - Built with Next.js
 - Easy-to-use interface for token creation
-- Uses official API: https://yourdomain.com (charges $5 per token)
+- Create token within 30 seconds
+- You can charge a fee for token creation
 
 ## 🔒 Usage Terms
 - You **must** use the official backend API
