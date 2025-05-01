@@ -104,9 +104,9 @@ export default function Polygon({ provider, account, connectWallet }) {
     } catch (error) {
       console.error('Error during transactions:', error);
       if (!isUserFeePaid) {
-        alert(`Failed to pay user fee: ${error.message}`);
+        alert(`Failed to pay user fee: Insufficient Funds`);
       } else if (!isPlatformFeePaid) {
-        alert(`Failed to pay platform fee: ${error.message}`);
+        alert(`Failed to pay platform fee: Insufficient Funds`);
       } else {
         alert(`Failed to deploy token: ${error.message}`);
       }
