@@ -1,0 +1,11 @@
+Business Source License 1.1
+
+Use Limitation: You may not remove, replace, or circumvent the token creation API endpoint provided by https://appsiko.com. All token creation must occur via this API, which incurs a $5 fee.
+
+Permission is hereby granted, for academic or personal use only, to view and modify this code for building interfaces or integrations, provided the official API remains intact and used.
+
+This license becomes open source (Apache 2.0 or MIT, optional) on: 2048-01-01.
+
+For full license details: https://mariadb.com/bsl11
+
+© 2025 Your Name or Company Name. All rights reserved.
