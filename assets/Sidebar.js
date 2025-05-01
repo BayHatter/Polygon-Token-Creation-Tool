@@ -3,8 +3,8 @@ import React from 'react';
 // Sample ads data (you can update this with real ad links and images)
 const ads = [
   {
-    url: "https://picfry.com",
-    image: "https://picfry.com/picfry.jpg",
+    url: "https://appsiko.com",
+    image: "https://appsiko.com/ad1.jpg",
     alt: "Ad 1",
   },
 
