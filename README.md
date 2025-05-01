@@ -21,6 +21,15 @@ A simple frontend tool to create tokens on the Polygon (Matic/Pol) network using
 - Now you can go to domian section under project at vercel.com at link it.
 - That's it
 
+## ✨ How to charge token creation fees.
+- If you want to charge token creation fees
+- Then donwload our code from https://github.com/BayHatter/Polygon-Token-Creation-Tool
+- Upload into your Github repo.
+- Edit the file public/config.json and insert your POL wallet address for receiving fees. Also set fee in POL that you want to charge
+- Once done, go to vercel.com and deploy the project
+- You can also link your own domain name with vercel.com
+- Vercel is free for lifetime, you can also use there paid package (Optional)
+
 ## 🔒 Usage Terms
 - You **must** use the official backend API
 - You **may not** remove, replace, or bypass the API integration
