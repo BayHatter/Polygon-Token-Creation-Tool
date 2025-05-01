@@ -16,9 +16,9 @@ A simple frontend tool to create ERC-20 tokens on the Polygon (Matic) network us
 Here are some screenshots of the tool in action:
 
 <p align="center">
-  <img src="https://appsiko.com/screenshot-1.png" alt="Screenshot 1" width="600"/><br/>
-  <img src="https://appsiko.com/screenshot-2.png" alt="Screenshot 2" width="600"/><br/>
-  <img src="https://appsiko.com/screenshot-3.png" alt="Screenshot 3" width="600"/>
+  <img src="https://appsiko.com/screenshot_1.png" alt="Screenshot 1" width="600"/><br/>
+  <img src="https://appsiko.com/screenshot_2.png" alt="Screenshot 2" width="600"/><br/>
+  <img src="https://appsiko.com/screenshot_3.png" alt="Screenshot 3" width="600"/>
 </p>
 
 ## 📄 License
